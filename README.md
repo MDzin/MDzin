@@ -3,7 +3,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/mdziinho)
 
 ![MDzin GitHub stats](https://github-readme-stats.vercel.app/api?username=MDzin&show_icons=true&theme=dracula&count_private=true)
-<img align="right" alt="MD-pic" height="640" style="border-radius:410px;" src="https://cdn.discordapp.com/attachments/866034558553292800/906854569521319956/venom-we-are-venom.gif">
+<img align="center" alt="MD-pic" height="240" style="border-radius:600px;" src="https://cdn.discordapp.com/attachments/857834515640877088/908214922545078292/venon_xuzo.gif">
 
 ## Tecnologias que eu uso no meu dia
 
